@@ -22,3 +22,8 @@ first, clone this repository :
 
 # wiring
 ![alt text](https://us-east-1.tixte.net/uploads/tortaxx.no-friends.xyz/image.png "wiring")
+
+# API
+- For api requests, the URL is https://localhost/api/send-text
+- method : `POST`
+- argument : `MESSAGE` 
