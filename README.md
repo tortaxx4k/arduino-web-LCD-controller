@@ -3,9 +3,9 @@ first, clone this repository :
 `git clone https://github.com/tortaxx4k/arduino-web-LCD-controller`
 
 # required software
-[NodeJS](https://nodejs.org/)
-[Arduino IDE](https://www.arduino.cc/en/software/)
-recommanded [Visual Studio Code](https://code.visualstudio.com/download)
+- [NodeJS](https://nodejs.org/)
+- [Arduino IDE](https://www.arduino.cc/en/software/)
+- recommanded [Visual Studio Code](https://code.visualstudio.com/download)
 
 # required equipment
 - LCD 1602 Module (with pin header)
